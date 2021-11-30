@@ -8,6 +8,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>This is a dope spotify clone 2.0</h1>
+      <main>
+        {/* Sidebar */}
+        {/* center */}
+      </main>
+      <div>{/* Player */}</div>
     </div>
   );
 }
